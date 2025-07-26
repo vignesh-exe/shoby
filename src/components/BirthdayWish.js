@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import surekaVideo from "../components/sureka.mp4"
+import surekaVideo from "../components/birthday-1.mp4"
 import shobyBackground from "../components/shoby.jpg"
 
 const BirthdayWishApp = () => {
